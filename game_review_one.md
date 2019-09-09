@@ -14,4 +14,4 @@ This game is about... this should be at least 3-4 paragraphs summarising the gam
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-Hyper Light Drifter.(https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
+[Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
