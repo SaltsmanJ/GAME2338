@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Spacious
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* AppsLightCompany
+* Not availabe
+* [Spacious](https://appslightcompany.itch.io/spacious)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
