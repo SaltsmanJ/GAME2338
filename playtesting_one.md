@@ -1,10 +1,10 @@
 # Playtest for Spacious
 
 * AppsLightCompany
-* Not availabe
+* Not available
 * [Spacious](https://appslightcompany.itch.io/spacious)
 
-**Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
+**Question:** During your playtesting were the rules of the game understandable? If not, what was not clear.
 > _Answer:_ The rules of the game were undersnadable in the beginning, and became clearer the longer that I played.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
